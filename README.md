@@ -16,6 +16,8 @@ task6-subqueries/
 │── schema.sql      # Table creation
 │── data.sql        # Insert sample data
 │── queries.sql     # Subquery practice queries
+│── erdiagram.png   # ER diagram of the schema
+
 ```
 
 ---
